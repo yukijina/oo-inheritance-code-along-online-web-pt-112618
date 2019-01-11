@@ -4,5 +4,6 @@ class Car < Vehicle #inheritance
   
   def go 
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
-  end 
+  end
+  
 end 
